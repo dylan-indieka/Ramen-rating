@@ -58,10 +58,7 @@ header {
     margin-bottom: 10px; /* Reduced space */
 }
 
-#new-ramen-form {
-    text-align: center;
-    margin-bottom: 20px;
-}
+
 
 #ramen-detail .ramen-item {
     position: relative;
@@ -70,6 +67,11 @@ header {
     overflow: hidden;
 }
 
+#ramen-detail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 #ramen-detail .ramen-name {
     position: absolute;
