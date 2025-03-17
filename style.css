@@ -53,12 +53,12 @@ header {
     padding: 2px 0;
 }
 
-#ramen-detail {
+
+
+#new-ramen-form {
     text-align: center;
-    margin-bottom: 10px; /* Reduced space */
+    margin-bottom: 20px;
 }
-
-
 
 #ramen-detail .ramen-item {
     position: relative;
