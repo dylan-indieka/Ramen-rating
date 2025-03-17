@@ -99,14 +99,7 @@ form input, form button {
     width: 300px;
 }
 
-form button {
-    background-color: black; /* Set background to black */
-    color: white; /* Set font color to white */
-    border: none;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-}
+
 
 h2 {
     background-color: black; /* Set background to black */
